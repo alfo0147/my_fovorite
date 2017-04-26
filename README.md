@@ -1,1 +1,1 @@
-# my_fovorite
+# my_favorite
